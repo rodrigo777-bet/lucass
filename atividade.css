@@ -1,8 +1,8 @@
 body {
-    background-color: blue;
+    background-color: rgb(220, 171, 118);
 }
 
 #title {
-    background-color: rgb(80, 252, 0);
+    background-color: rgb(172, 14, 14);
     text-align: center;
 }
